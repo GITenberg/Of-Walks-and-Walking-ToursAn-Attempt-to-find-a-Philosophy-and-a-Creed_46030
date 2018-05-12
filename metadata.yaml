@@ -1,0 +1,38 @@
+_repo: Of-Walks-and-Walking-ToursAn-Attempt-to-find-a-Philosophy-and-a-Creed_46030
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46030-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Haultain, Arnold
+    aliases:
+    - Haultain, Theodore Arnold
+    - Haultain, T. Arnold (Theodore Arnold)
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '5434'
+    url: http://www.gutenberg.org/2009/agents/5434
+description: ''
+gutenberg_issued: '2014-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SK'
+- !lcsh 'Outdoor life'
+- !lcsh 'Walking'
+tableOfContents: Golf and walking -- The essence of a walk -- Notable walkers -- My
+  earliest walks -- India -- English byways -- A spring morning in England -- Autumn
+  reveries -- Spirituality of nature -- Practical transcendentalism -- Spring in Canada
+  -- Autumn in Canada -- Winter in Canada -- The mood for walking -- Evening meditations
+  -- The unity of nature -- Instinct for walking -- A woeful walk -- Autumn in Canada
+  again -- The walking tour -- The tramp's dietary -- Practical details -- The beauty
+  of landscape -- Warnings to the over-zealous -- How that all points to the infinite
+  -- The pleasures of walking -- Is walking selfish? -- The pæan of being.
+title: 'Of Walks and Walking Tours: An Attempt to find a Philosophy and a Creed'
+url: http://www.gutenberg.org/ebooks/46030
