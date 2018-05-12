@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5434'
     url: http://www.gutenberg.org/2009/agents/5434
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46030#Of-Walks-and-Walking-ToursAn-Attempt-to-find-a-Philosophy-and-a-Creed
 gutenberg_issued: '2014-06-19'
 gutenberg_type: Text
 identifiers:
